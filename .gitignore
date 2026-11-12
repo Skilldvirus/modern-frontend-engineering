@@ -1,0 +1,18 @@
+# Dependencies and build output
+node_modules/
+dist/
+dist-ssr/
+.vite/
+
+# Local environment and logs
+.env
+.env.*
+!.env.example
+*.log
+npm-debug.log*
+
+# Operating system and editor files
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea/
